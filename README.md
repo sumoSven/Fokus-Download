@@ -16,7 +16,7 @@
 
 ## ⬇️ Neueste Version laden
 
-**[Fokus.apk herunterladen](https://github.com/sumoSven/Fokus-Download/releases/latest/download/Fokus.apk)** · aktuell **v0.2.0**
+**[Fokus.apk herunterladen](https://github.com/sumoSven/Fokus-Download/releases/latest/download/Fokus.apk)** · aktuell **v0.2.1**
 
 Den Link am besten direkt auf dem Handy öffnen. Läuft ab Android 8.
 
@@ -60,6 +60,11 @@ Den Link am besten direkt auf dem Handy öffnen. Läuft ab Android 8.
 Fokus hat **keine Internet-Berechtigung** – technisch kann die App nichts verschicken.
 Aufgaben, Habits, Handyzeit und Notizen bleiben auf deinem Handy.
 Die Bedienungshilfe für die Pause sieht nur, **welche App** nach vorne kommt – keine Inhalte, keine Texte.
+
+## Neu in v0.2.1
+
+- 🛡️ „Widerstanden“: Auf *Heute* siehst du, wie oft du am Pause-Bildschirm „Lieber nicht“ gewählt hast –
+  im Wochenrückblick mit Vergleich zur Vorwoche.
 
 ## Neu in v0.2.0
 
