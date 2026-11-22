@@ -2,6 +2,18 @@
 
 **Aufgaben, Habits und Handyzeit an einem Ort.** Android-App, ohne Konto, ohne Internet.
 
+<p align="center">
+  <img src="docs/bilder/heute.png" width="200" alt="Heute: Begleiter, Level, Morgenroutine und deine 3 für heute">
+  <img src="docs/bilder/widgets.png" width="200" alt="Zwei Widgets auf dem Startbildschirm">
+  <img src="docs/bilder/pause.png" width="200" alt="Pause vor Social Media: Willst du wirklich YouTube öffnen?">
+</p>
+<p align="center">
+  <img src="docs/bilder/rueckblick.png" width="200" alt="Wochenrückblick: Zahlen der Woche und Habits im Vergleich zur Vorwoche">
+  <img src="docs/bilder/handyzeit.png" width="200" alt="Handyzeit der Woche als Balken, Social Media in Orange">
+  <img src="docs/bilder/habits.png" width="200" alt="Habits mit Streak-Flamme und Wochenpunkten">
+  <img src="docs/bilder/dunkel.png" width="200" alt="Heute im Dunkelmodus">
+</p>
+
 ## ⬇️ Neueste Version laden
 
 **[Fokus.apk herunterladen](https://github.com/sumoSven/Fokus-Download/releases/latest/download/Fokus.apk)** · aktuell **v0.2.0**
